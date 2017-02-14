@@ -13,7 +13,7 @@ int main(int argc, char **argv)
 		}
 	}
 	
-	else if((ch < '9')||(ch > '0')){
+	else if((ch <= '9')&&(ch >= '0')){
 		i *= 10;
 		i += ch - '0';
 	}
