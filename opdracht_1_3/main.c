@@ -13,7 +13,7 @@ int main(int argc, char **argv)
     }
 	printf("Nu komt de for loop: \n");
 	int rij = 0;
-	for(; rij <= i; rij++){
+	for(; rij < i; rij++){
 		for (int kolom = 0; kolom < rij; kolom++)
 			printf("*");
 		printf("\n");
@@ -26,22 +26,22 @@ int main(int argc, char **argv)
 		printf("\n");
 	}
 	printf("Nu komt de while loop: \n");
-	while(rij <= i){
-		rij++;
+	while(rij < i){
 		int kolom = 0;
 		while(kolom < rij){
 			kolom++;
 			printf("*");
 		}
+		rij++;
 	printf("\n");
 	}
 	while(rij > 0){
-		rij--;
 		int kolom = rij;
 		while(kolom > 0){
 			kolom--;
 			printf("*");
 		}
+		rij--;
 	printf("\n");
 	}
 	return 0;
