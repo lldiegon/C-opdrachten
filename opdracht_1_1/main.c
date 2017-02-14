@@ -9,6 +9,6 @@ int main(int argc, char **argv)
 	scanf("%d", &x);
 	printf("Y: ");
 	scanf("%d", &y);
-	printf("X + Y = %d", x+y);
+	printf("%d + %d = %d", x, y, x+y);
 	return 0;
 }
