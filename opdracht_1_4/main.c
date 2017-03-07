@@ -11,9 +11,8 @@ int main(int argc, char **argv)
             ;
         printf("tik een getal in: ");
     }
-	int max = 20;
 	for(int vermenigvuldiging = 1; vermenigvuldiging < 11; vermenigvuldiging++){
-		printf("%*d x %d = %d\n", max, vermenigvuldiging, i, vermenigvuldiging*i);
+		printf("%3d x %d = %4d\n", vermenigvuldiging, i, vermenigvuldiging*i);
 	}
 	return 0;
 }

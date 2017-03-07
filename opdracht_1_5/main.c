@@ -27,6 +27,7 @@ int main(int argc, char **argv)
 			print = 1;
 		}
 	}
+	
 	if(print==1){
 		printf("%d", i * status);
 	}
