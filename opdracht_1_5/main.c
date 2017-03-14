@@ -1,4 +1,5 @@
 #include <stdio.h>
+//fix de 55-55
 
 int main(int argc, char **argv)
 {
@@ -25,6 +26,10 @@ int main(int argc, char **argv)
 			i *= 10;
 			i += ch - '0';
 			print = 1;
+		}
+		else{
+			printf("Error");
+			print = 0;
 		}
 	}
 	

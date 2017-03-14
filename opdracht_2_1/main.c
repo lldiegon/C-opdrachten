@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 		if(random_number == 0){
 			nullen++;
 		}
-		if(random_number == 1) {
+		else if(random_number == 1) {
 			eenen++;
 		}
 		a[i] = random_number;
