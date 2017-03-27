@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/opdracht_4_3.c.o ./Debug/opdracht_4_3_compressed.c.o   
