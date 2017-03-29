@@ -94,5 +94,7 @@
   </Settings>
   <VirtualDirectory Name="src">
     <File Name="main.c"/>
+    <File Name="stack.c"/>
+    <File Name="stack.h"/>
   </VirtualDirectory>
 </CodeLite_Project>

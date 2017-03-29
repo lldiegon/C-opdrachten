@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="c_workspace" Database="" Version="10.0.0">
+  <Project Name="01_eerste_C_programma" Path="01_eerste_C_programma/01_eerste_C_programma.project" Active="No"/>
+  <Project Name="02_int_demo" Path="02_int_demo/02_int_demo.project" Active="No"/>
+  <Project Name="03_printf_demo" Path="03_printf_demo/03_printf_demo.project" Active="No"/>
+  <Project Name="04_hexadecimaal_octaal_demo" Path="04_hexadecimaal_octaal_demo/04_hexadecimaal_octaal_demo.project" Active="No"/>
+  <Project Name="05_floating_point_demo" Path="05_floating_point_demo/05_floating_point_demo.project" Active="No"/>
+  <Project Name="06_char_demo" Path="06_char_demo/06_char_demo.project" Active="No"/>
+  <Project Name="07_bool_demo" Path="07_bool_demo/07_bool_demo.project" Active="No"/>
+  <Project Name="08_expression_demo" Path="08_expression_demo/08_expression_demo.project" Active="No"/>
+  <Project Name="09_assignment_demo" Path="09_assignment_demo/09_assignment_demo.project" Active="No"/>
+  <Project Name="10_switch_demo" Path="10_switch_demo/10_switch_demo.project" Active="No"/>
+  <Project Name="11_for_demo" Path="11_for_demo/11_for_demo.project" Active="No"/>
+  <Project Name="12_getchar_putchar_demo" Path="12_getchar_putchar_demo/12_getchar_putchar_demo.project" Active="No"/>
+  <Project Name="13_scanf_demo" Path="13_scanf_demo/13_scanf_demo.project" Active="No"/>
+  <Project Name="14_array_demo" Path="14_array_demo/14_array_demo.project" Active="No"/>
+  <Project Name="15_string_demo" Path="15_string_demo/15_string_demo.project" Active="No"/>
+  <Project Name="16_gets_demo" Path="16_gets_demo/16_gets_demo.project" Active="No"/>
+  <Project Name="17_pointer_demo" Path="17_pointer_demo/17_pointer_demo.project" Active="No"/>
+  <Project Name="18_struct_demo" Path="18_struct_demo/18_struct_demo.project" Active="No"/>
+  <Project Name="19_tweedimen_array_demo" Path="19_tweedimen_array_demo/19_tweedimen_array_demo.project" Active="No"/>
+  <Project Name="20_function_prototype_demo" Path="20_function_prototype_demo/20_function_prototype_demo.project" Active="No"/>
+  <Project Name="21_call_by_value_demo" Path="21_call_by_value_demo/21_call_by_value_demo.project" Active="No"/>
+  <Project Name="22_pointer_parameters_demo" Path="22_pointer_parameters_demo/22_pointer_parameters_demo.project" Active="No"/>
+  <Project Name="23_array_parameter_demo" Path="23_array_parameter_demo/23_array_parameter_demo.project" Active="No"/>
+  <Project Name="24_struct_parameter_demo" Path="24_struct_parameter_demo/24_struct_parameter_demo.project" Active="No"/>
+  <Project Name="25_global_variable_demo" Path="25_global_variable_demo/25_global_variable_demo.project" Active="No"/>
+  <Project Name="26_local_static_variable_demo" Path="26_local_static_variable_demo/26_local_static_variable_demo.project" Active="No"/>
+  <Project Name="28_bit_operations_demo" Path="28_bit_operations_demo/28_bit_operations_demo.project" Active="No"/>
+  <Project Name="29_file_demo" Path="29_file_demo/29_file_demo.project" Active="No"/>
+  <Project Name="30_ASCII_vs_binary_file_demo" Path="30_ASCII_vs_binary_file_demo/30_ASCII_vs_binary_file_demo.project" Active="No"/>
+  <Project Name="31_main_parameters_demo" Path="31_main_parameters_demo/31_main_parameters_demo.project" Active="No"/>
+  <Project Name="32_multiple_source_files_demo" Path="32_multiple_source_files_demo/32_multiple_source_files_demo.project" Active="No"/>
+  <Project Name="33_macro_demo" Path="33_macro_demo/33_macro_demo.project" Active="No"/>
+  <Project Name="34_recursive_function_demo" Path="34_recursive_function_demo/34_recursive_function_demo.project" Active="No"/>
+  <Project Name="35_stack_demo" Path="35_stack_demo/35_stack_demo.project" Active="No"/>
+  <Project Name="27_function_parameter_demo" Path="27_function_parameter_demo/27_function_parameter_demo.project" Active="No"/>
+  <Project Name="opdracht_1_1" Path="opdracht_1_1/opdracht_1_1.project" Active="No"/>
+  <Project Name="opdracht_1_2" Path="opdracht_1_2/opdracht_1_2.project" Active="No"/>
+  <Project Name="opdracht_1_3" Path="opdracht_1_3/opdracht_1_3.project" Active="No"/>
+  <Project Name="opdracht_1_4" Path="opdracht_1_4/opdracht_1_4.project" Active="No"/>
+  <Project Name="opdracht_1_5" Path="opdracht_1_5/opdracht_1_5.project" Active="No"/>
+  <Project Name="opdracht_2_1" Path="opdracht_2_1/opdracht_2_1.project" Active="No"/>
+  <Project Name="opdracht_2_2" Path="opdracht_2_2/opdracht_2_2.project" Active="No"/>
+  <Project Name="opdracht_2_3" Path="opdracht_2_3/opdracht_2_3.project" Active="No"/>
+  <Project Name="opdracht_2_4" Path="opdracht_2_4/opdracht_2_4.project" Active="No"/>
+  <Project Name="opdracht_2_5" Path="opdracht_2_5/opdracht_2_5.project" Active="No"/>
+  <Project Name="opdracht_3_1" Path="opdracht_3_1/opdracht_3_1.project" Active="No"/>
+  <Project Name="opdracht_3_2" Path="opdracht_3_2/opdracht_3_2.project" Active="No"/>
+  <Project Name="opdracht_3_3" Path="opdracht_3_3/opdracht_3_3.project" Active="No"/>
+  <Project Name="opdracht_3_4" Path="opdracht_3_4/opdracht_3_4.project" Active="No"/>
+  <Project Name="opdracht_3_5" Path="opdracht_3_5/opdracht_3_5.project" Active="No"/>
+  <Project Name="opdracht_4_1" Path="opdracht_4_1/opdracht_4_1.project" Active="No"/>
+  <Project Name="opdracht_4_2" Path="opdracht_4_2/opdracht_4_2.project" Active="No"/>
+  <Project Name="opdracht_4_3" Path="opdracht_4_3/opdracht_4_3.project" Active="No"/>
+  <Project Name="opdracht_4_4" Path="opdracht_4_4/opdracht_4_4.project" Active="No"/>
+  <Project Name="opdracht_4_5" Path="opdracht_4_5/opdracht_4_5.project" Active="No"/>
+  <Project Name="opdracht_5_1" Path="opdracht_5_1/opdracht_5_1.project" Active="Yes"/>
+  <Project Name="opdracht_5_2" Path="opdracht_5_2/opdracht_5_2.project" Active="No"/>
+  <Project Name="opdracht_5_3" Path="opdracht_5_3/opdracht_5_3.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="01_eerste_C_programma" ConfigName="Debug"/>
+      <Project Name="02_int_demo" ConfigName="Debug"/>
+      <Project Name="03_printf_demo" ConfigName="Debug"/>
+      <Project Name="04_hexadecimaal_octaal_demo" ConfigName="Debug"/>
+      <Project Name="05_floating_point_demo" ConfigName="Debug"/>
+      <Project Name="06_char_demo" ConfigName="Debug"/>
+      <Project Name="07_bool_demo" ConfigName="Debug"/>
+      <Project Name="08_expression_demo" ConfigName="Debug"/>
+      <Project Name="09_assignment_demo.c" ConfigName="Debug"/>
+      <Project Name="10_switch_demo" ConfigName="Debug"/>
+      <Project Name="11_for_demo" ConfigName="Debug"/>
+      <Project Name="12_getchar_putchar_demo" ConfigName="Debug"/>
+      <Project Name="13_scanf_demo" ConfigName="Debug"/>
+      <Project Name="14_array_demo" ConfigName="Debug"/>
+      <Project Name="15_string_demo" ConfigName="Debug"/>
+      <Project Name="16_gets_demo" ConfigName="Debug"/>
+      <Project Name="17_pointer_demo" ConfigName="Debug"/>
+      <Project Name="18_struct_demo" ConfigName="Debug"/>
+      <Project Name="19_tweedimen_array_demo" ConfigName="Debug"/>
+      <Project Name="20_function_prototype_demo" ConfigName="Debug"/>
+      <Project Name="21_call_by_value_demo" ConfigName="Debug"/>
+      <Project Name="22_pointer_parameters_demo" ConfigName="Debug"/>
+      <Project Name="23_array_parameter_demo" ConfigName="Debug"/>
+      <Project Name="24_struct_parameter_demo" ConfigName="Debug"/>
+      <Project Name="25_global_variable_demo" ConfigName="Debug"/>
+      <Project Name="26_local_static_variable_demo" ConfigName="Debug"/>
+      <Project Name="27_function_paramter_demo" ConfigName="Debug"/>
+      <Project Name="28_bit_operations_demo" ConfigName="Debug"/>
+      <Project Name="29_file_demo" ConfigName="Debug"/>
+      <Project Name="30_ASCII_vs_binary_file_demo" ConfigName="Debug"/>
+      <Project Name="31_main_parameters_demo" ConfigName="Debug"/>
+      <Project Name="32_multiple_source_files_demo" ConfigName="Debug"/>
+      <Project Name="33_macro_demo" ConfigName="Debug"/>
+      <Project Name="34_recursive_function_demo" ConfigName="Debug"/>
+      <Project Name="35_stack_demo" ConfigName="Debug"/>
+      <Project Name="27_function_parameter_demo" ConfigName="Debug"/>
+      <Project Name="opdracht_1_1" ConfigName="Debug"/>
+      <Project Name="opdracht_1_2" ConfigName="Debug"/>
+      <Project Name="opdracht_1_3" ConfigName="Debug"/>
+      <Project Name="opdracht_1_4" ConfigName="Debug"/>
+      <Project Name="opdracht_1_5" ConfigName="Debug"/>
+      <Project Name="opdracht_2_1" ConfigName="Debug"/>
+      <Project Name="opdracht_2_2" ConfigName="Debug"/>
+      <Project Name="opdracht_2_3" ConfigName="Debug"/>
+      <Project Name="opdracht_2_4" ConfigName="Debug"/>
+      <Project Name="opdracht_2_5" ConfigName="Debug"/>
+      <Project Name="opdracht_3_1" ConfigName="Debug"/>
+      <Project Name="opdracht_3_2" ConfigName="Debug"/>
+      <Project Name="opdracht_3_3" ConfigName="Debug"/>
+      <Project Name="opdracht_3_4" ConfigName="Debug"/>
+      <Project Name="opdracht_3_5" ConfigName="Debug"/>
+      <Project Name="opdracht_4_1" ConfigName="Debug"/>
+      <Project Name="opdracht_4_2" ConfigName="Debug"/>
+      <Project Name="opdracht_4_3" ConfigName="Debug"/>
+      <Project Name="opdracht_4_4" ConfigName="Debug"/>
+      <Project Name="opdracht_4_5" ConfigName="Debug"/>
+      <Project Name="opdracht_5_1" ConfigName="Debug"/>
+      <Project Name="opdracht_5_2" ConfigName="Debug"/>
+      <Project Name="opdracht_5_3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="01_eerste_C_programma" ConfigName="Release"/>
+      <Project Name="02_int_demo" ConfigName="Release"/>
+      <Project Name="03_printf_demo" ConfigName="Release"/>
+      <Project Name="04_hexadecimaal_octaal_demo" ConfigName="Release"/>
+      <Project Name="05_floating_point_demo" ConfigName="Release"/>
+      <Project Name="06_char_demo" ConfigName="Release"/>
+      <Project Name="07_bool_demo" ConfigName="Release"/>
+      <Project Name="08_expression_demo" ConfigName="Release"/>
+      <Project Name="09_assignment_demo.c" ConfigName="Release"/>
+      <Project Name="10_switch_demo" ConfigName="Release"/>
+      <Project Name="11_for_demo" ConfigName="Release"/>
+      <Project Name="12_getchar_putchar_demo" ConfigName="Release"/>
+      <Project Name="13_scanf_demo" ConfigName="Release"/>
+      <Project Name="14_array_demo" ConfigName="Release"/>
+      <Project Name="15_string_demo" ConfigName="Release"/>
+      <Project Name="16_gets_demo" ConfigName="Release"/>
+      <Project Name="17_pointer_demo" ConfigName="Release"/>
+      <Project Name="18_struct_demo" ConfigName="Release"/>
+      <Project Name="19_tweedimen_array_demo" ConfigName="Release"/>
+      <Project Name="20_function_prototype_demo" ConfigName="Release"/>
+      <Project Name="21_call_by_value_demo" ConfigName="Release"/>
+      <Project Name="22_pointer_parameters_demo" ConfigName="Release"/>
+      <Project Name="23_array_parameter_demo" ConfigName="Release"/>
+      <Project Name="24_struct_parameter_demo" ConfigName="Release"/>
+      <Project Name="25_global_variable_demo" ConfigName="Release"/>
+      <Project Name="26_local_static_variable_demo" ConfigName="Release"/>
+      <Project Name="27_function_paramter_demo" ConfigName="Release"/>
+      <Project Name="28_bit_operations_demo" ConfigName="Release"/>
+      <Project Name="29_file_demo" ConfigName="Release"/>
+      <Project Name="30_ASCII_vs_binary_file_demo" ConfigName="Release"/>
+      <Project Name="31_main_parameters_demo" ConfigName="Release"/>
+      <Project Name="32_multiple_source_files_demo" ConfigName="Release"/>
+      <Project Name="33_macro_demo" ConfigName="Release"/>
+      <Project Name="34_recursive_function_demo" ConfigName="Release"/>
+      <Project Name="35_stack_demo" ConfigName="Release"/>
+      <Project Name="27_function_parameter_demo" ConfigName="Release"/>
+      <Project Name="opdracht_1_1" ConfigName="Release"/>
+      <Project Name="opdracht_1_2" ConfigName="Release"/>
+      <Project Name="opdracht_1_3" ConfigName="Release"/>
+      <Project Name="opdracht_1_4" ConfigName="Release"/>
+      <Project Name="opdracht_1_5" ConfigName="Release"/>
+      <Project Name="opdracht_2_1" ConfigName="Release"/>
+      <Project Name="opdracht_2_2" ConfigName="Release"/>
+      <Project Name="opdracht_2_3" ConfigName="Release"/>
+      <Project Name="opdracht_2_4" ConfigName="Release"/>
+      <Project Name="opdracht_2_5" ConfigName="Release"/>
+      <Project Name="opdracht_3_1" ConfigName="Release"/>
+      <Project Name="opdracht_3_2" ConfigName="Release"/>
+      <Project Name="opdracht_3_3" ConfigName="Release"/>
+      <Project Name="opdracht_3_4" ConfigName="Release"/>
+      <Project Name="opdracht_3_5" ConfigName="Release"/>
+      <Project Name="opdracht_4_1" ConfigName="Release"/>
+      <Project Name="opdracht_4_2" ConfigName="Release"/>
+      <Project Name="opdracht_4_3" ConfigName="Release"/>
+      <Project Name="opdracht_4_4" ConfigName="Release"/>
+      <Project Name="opdracht_4_5" ConfigName="Release"/>
+      <Project Name="opdracht_5_1" ConfigName="Release"/>
+      <Project Name="opdracht_5_2" ConfigName="Release"/>
+      <Project Name="opdracht_5_3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
